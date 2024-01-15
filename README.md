@@ -1,3 +1,3 @@
 # Titanic-Tree-Model
 
-This code is my submission of kaggle competition Titanic Datasets
+This code is my learn in kaggle competition Titanic Datasets
